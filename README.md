@@ -1,7 +1,7 @@
 # CryptoClustering
 Clustering Cryptocurrencies using K-means and Principal Component Analysis (PCA)
 
-This project aimed to cluster cryptocurrencies based on their market data using the K-means clustering algorithm and optimize the clusters using Principal Component Analysis (PCA). The following steps were performed:
+This project aimed to cluster cryptocurrencies based on their market data using the K-means clustering algorithm and optimize the clusters using Principal Component Analysis (PCA). 
 
 ## Data Loading and Exploration:
 The "crypto_market_data.csv" file was loaded into a DataFrame, and summary statistics were computed to gain initial insights into the data. Additionally, a bar plot was created to visualize the distribution of the data.
